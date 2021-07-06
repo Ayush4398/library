@@ -39,9 +39,7 @@ html {
 .quotes {
   margin-right: 30px;
   font-size: 30px;
-  font-style: italic;
   font-weight: bolder;
-  font-family: cursive;
   float: right;
   color: #558776;
 }
@@ -54,9 +52,7 @@ html {
 .quoteswithout {
   margin-right: 30px;
   font-size: 30px;
-  font-style: italic;
   font-weight: bolder;
-  font-family: cursive;
   float: right;
   color: #558776;
 }
